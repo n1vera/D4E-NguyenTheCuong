@@ -1,0 +1,22 @@
+from turtle import * 
+speed(-1)
+forward(300)
+left(90)
+forward(300)
+left(90)
+forward(300)
+left(90)
+forward(300)
+left(90)
+for x in range(10000):
+    forward(300)
+    left(90)
+    forward(300)
+    left(90)
+    forward(300)
+    left(90)
+    forward(300)
+    left(90)
+
+    right(7)
+mainloop() 

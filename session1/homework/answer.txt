@@ -1,0 +1,8 @@
+1.
+print(type(#variables's name))
+2.
+typos, space, indentaion
+eg:
+dont space = 5
+lm-ao = 5
+mind,x = 5
